@@ -1,2 +1,2 @@
 # Introduction
-Hello Everyone! My name is Danish and I'm an aspiring Blockchain Developer, who is very passionate about Gnoland.
+Hello Everyone! My name is Danish and I'm an aspiring Blockchain Developer, who is very passionate about Gnoland. I've been a part of the Blockchain Industry since 2023 and got introduced to the Cosmos Network in early 2024. I got to knew about Gnoland through Jae Kwon's Stanford Lecture.
