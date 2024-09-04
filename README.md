@@ -5,10 +5,10 @@ Hello Everyone! My name is Danish and I'm an aspiring Blockchain Developer, who 
 The goal of this repository is to create a foundation for the work I'll doing over the next 6-12 months. 
 
 # Connect
-Articles:
+Articles:-
 https://medium.com/@danishmahboob
 
-Telegram:
+Telegram:-
 https://t.me/gnodevs
 
-Mastodon: https://mastodon.social/@DanishMahboob
+Mastodon:- https://mastodon.social/@DanishMahboob
