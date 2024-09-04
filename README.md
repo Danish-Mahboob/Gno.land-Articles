@@ -8,7 +8,7 @@ The goal of this repository is to create a foundation for the work I'll doing ov
 Articles:-
 https://medium.com/@danishmahboob
 
-Telegram:-
+Community:-
 https://t.me/gnodevs
 
-Mastodon:- https://mastodon.social/@DanishMahboob
+Social:- https://mastodon.social/@DanishMahboob
