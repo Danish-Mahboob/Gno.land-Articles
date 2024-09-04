@@ -6,7 +6,7 @@ The goal of this repository is to create a foundation for my work.
 
 Over the next 6-12 months I will be writing comprehensive articles about how can an absolute beginner start his/her blockchain journey from scratch, the basics of Gnoland's core componentsc and I'll also document my journey of becoming a Gnolang Developer and deploying complex smart contracts in a beginner friendly way.
 
-These articles will be completely open source meaning anyone can access these articles for free and can use it anywhere you want without caring about copyright issues.
+These articles will be completely open source, which means anyone can access these articles for free and can use it anywhere you want without caring about copyright issues.
 
 # Connect
 Articles: https://medium.com/@danishmahboob
