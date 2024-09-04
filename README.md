@@ -11,7 +11,7 @@ https://medium.com/@danishmahboob
 Community:
 https://t.me/gnodevs
 
-MD: 
+Social: 
 https://mastodon.social/@DanishMahboob
 
 
