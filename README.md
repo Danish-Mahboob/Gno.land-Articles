@@ -4,17 +4,15 @@ Hello Everyone! My name is Danish and I'm an aspiring Blockchain Developer, who 
 # Objective
 The goal of this repository is to create a foundation for my work.
 
-Over the next 6-12 months I will be writing comprehensive articles about how can an absolute beginner start his/her blockchain journey from scratch, the basics of Gnoland's core componentsc and I'll also document my journey of becoming a Gnolang Developer and deploying complex smart contracts in a beginner friendly way.
+The idea is quite simple, over the next 6-12 months I will be writing comprehensive articles about how can an absolute beginner start his/her blockchain journey from scratch by documenting my journey of becoming a Gnolang Developer and deploying complex smart contracts in a beginner friendly way.
 
 These articles will be completely open source, which means anyone can access these articles for free and can use it anywhere you want without caring about copyright issues.
 
 # Connect
 Articles: https://medium.com/@danishmahboob
 
-Community: 
-https://t.me/gnodevs
+Community: https://t.me/gnodevs
 
-Social: 
-https://mastodon.social/@DanishMahboob
+Social: https://mastodon.social/@DanishMahboob
 
 
