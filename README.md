@@ -4,7 +4,7 @@ Hello Everyone! My name is Danish and I'm an aspiring Blockchain Developer, who 
 # Objective
 The goal of this repository is to create a foundation for my work.
 
-The idea is quite simple, I want to become a Gnolang Developer and I'll be in the process of becoming one over the next 6-12 months and during this period of time I'll be documenting my learnings in the form of comprehensive articles about how an absolute beginner can start his/her blockchain journey from scratch and become a proper by documenting my journey of becoming a Gnolang Developer and deploying complex smart contracts in a beginner friendly way.
+The idea is quite simple, I want to become a Gnolang Developer and I'll be in the process of becoming one over the next 6-12 months and during this period of time I'll be documenting each and every aspect of my journey in the form of comprehensive articles about how an absolute beginner can start his/her blockchain journey from scratch. I'll cover everything from basics of the Blockchain to deploying complex smart contracts in a beginner friendly way.
 
 These articles will be completely open source, which means anyone can access these articles for free and can use it anywhere you want without thinking about copyright issues.
 
