@@ -1,4 +1,4 @@
-#The Community Project
+# The Community Project
 
 # Connect
 Articles: https://bit.ly/3BJWq8W
