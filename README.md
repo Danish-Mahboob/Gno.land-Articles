@@ -13,6 +13,6 @@ Articles: https://bit.ly/3BJWq8W
 
 Community: https://t.me/gnodevs
 
-Social: https://mastodon.social/@DanishMahboob
+Social: https://bit.ly/3Ypcqpw
 
 
