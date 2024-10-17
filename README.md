@@ -9,7 +9,7 @@ The idea is quite simple, I want to become a Gnolang Developer and I'll be in th
 These articles will be completely open source, which means anyone can access these articles for free and can use it anywhere you want without thinking about copyright issues.
 
 # Connect
-Articles: http://bit.ly/3UeukZP
+Articles: https://bit.ly/3BJWq8W
 
 Community: https://t.me/gnodevs
 
